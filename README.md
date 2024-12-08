@@ -1,2 +1,3 @@
-# citArena
-Web application to facilitate the management of a gym/arena - 3rd year university project
+## README ##
+
+This is a training session booking site that allows users to register, login and book trainign sessions.
